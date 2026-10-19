@@ -1,4 +1,4 @@
-## Hi there 👋
+## BING CTF 👋
 
 <!--
 
